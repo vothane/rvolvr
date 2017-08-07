@@ -1,8 +1,8 @@
-# rvolver
+# rvolvr
 
 *periodially changes my twitter banner with AI created art*
 
-rvolver is an art generator using a Wasserstein GAN, it is just a rewrite of the project by Kenny Jones and Derrick Bonafilia
+rvolvr is an art generator using a Wasserstein GAN, it is just a rewrite of the project by Kenny Jones and Derrick Bonafilia
 
 https://github.com/rkjones4/GANGogh
 
