@@ -1,1 +1,4 @@
 *.swp
+api_keys.py
+*.pyc
+queuefile/*
